@@ -1,0 +1,18 @@
+.row{
+   padding: 5px;
+   margin: 10px;
+   width: 100%;
+}
+.b1{
+   width: 150px;
+}
+.b2{
+   width:90px ;
+   margin: 10px;
+  
+  
+}
+.b3{
+   display: flex;
+   justify-content: center;
+}

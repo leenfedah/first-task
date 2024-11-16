@@ -1,0 +1,89 @@
+.a1{
+    color: rgb(84, 79, 242);
+    text-align: center;
+    padding: 10px;
+}
+.a2{
+    text-align: center;
+}
+.a3{
+    border-radius: 30px;
+}
+.a4{
+    border-radius: 30px;
+}
+.a5{
+    border-radius: 30px;
+   border-color: azure;
+   color: black;
+}
+.a6{
+    color: rgb(65, 65, 231);
+    padding: 10px;
+}
+.a7{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.a8{
+    width: 100px;
+    margin-left: 20px;
+}
+.a9{
+    height: 600px;
+
+}
+.a10{
+    width: 270px;
+    height: 100px;
+   background-color: rgb(74, 74, 234);
+    margin-top: 30px;
+    margin-left: 12px;
+    border-radius: 10px;
+}
+.a11{
+    margin-left: -30px;
+}
+.a12{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a13{
+    color: rgb(238, 238, 232);
+}
+.a14{
+    padding: 20px;
+    margin: 15px;
+}
+.a15{
+   padding-top: 350px;
+}
+.a16{
+    width:1000px;
+    height: 200px;
+    background-color: rgb(80, 80, 250);
+}
+.a17{
+    width: 150px;
+}
+.a18{
+    width: 200px;
+    border-radius: 30px;
+    margin-top: 60px;
+}
+.a19{
+width: 500px;
+color: azure;
+}
+.a20{
+    color: azure;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.a21{
+    display: flex;
+    justify-content: center;
+}

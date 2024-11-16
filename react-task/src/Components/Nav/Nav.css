@@ -1,0 +1,9 @@
+.n1{
+   width: 500px;
+   display: flex;
+   justify-content: space-between;
+
+}
+.n2{
+    width: 80px;
+}
